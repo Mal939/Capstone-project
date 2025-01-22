@@ -1,0 +1,8 @@
+[31mCMake Error at /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:93 (message):
+  rosidl_generate_interfaces() the passed file '​' doesn't exist relative
+  to the CMAKE_CURRENT_SOURCE_DIR
+  '/home/amr01/workspace/robofun-1.0/object-detection-ws/src/object_detection_msgs'
+Call Stack (most recent call first):
+  CMakeLists.txt:24 (rosidl_generate_interfaces)
+
+[0m

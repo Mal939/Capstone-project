@@ -1,0 +1,4 @@
+Invoking command in '/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection_msgs': /usr/bin/cmake --build /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection_msgs -- -j8 -l8
+Invoked command in '/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection_msgs' returned '0': /usr/bin/cmake --build /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection_msgs -- -j8 -l8
+Invoking command in '/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection_msgs': /usr/bin/cmake --install /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection_msgs
+Invoked command in '/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection_msgs' returned '0': /usr/bin/cmake --install /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection_msgs

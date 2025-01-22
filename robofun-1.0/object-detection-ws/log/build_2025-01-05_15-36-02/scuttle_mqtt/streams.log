@@ -1,0 +1,21 @@
+[1.009s] Invoking command in '/home/amr01/workspace/robofun-1.0/object-detection-ws/src/scuttle_mqtt': PYTHONPATH=/home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/scuttle_mqtt build --build-base /home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/build install --record /home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/install.log --single-version-externally-managed install_data
+[1.282s] running egg_info
+[1.283s] writing ../../build/scuttle_mqtt/scuttle_mqtt.egg-info/PKG-INFO
+[1.283s] writing dependency_links to ../../build/scuttle_mqtt/scuttle_mqtt.egg-info/dependency_links.txt
+[1.283s] writing entry points to ../../build/scuttle_mqtt/scuttle_mqtt.egg-info/entry_points.txt
+[1.283s] writing requirements to ../../build/scuttle_mqtt/scuttle_mqtt.egg-info/requires.txt
+[1.283s] writing top-level names to ../../build/scuttle_mqtt/scuttle_mqtt.egg-info/top_level.txt
+[1.285s] reading manifest file '../../build/scuttle_mqtt/scuttle_mqtt.egg-info/SOURCES.txt'
+[1.286s] writing manifest file '../../build/scuttle_mqtt/scuttle_mqtt.egg-info/SOURCES.txt'
+[1.286s] running build
+[1.286s] running build_py
+[1.286s] running install
+[1.287s] running install_lib
+[1.288s] running install_data
+[1.288s] running install_egg_info
+[1.289s] removing '/home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/lib/python3.10/site-packages/scuttle_mqtt-0.0.0-py3.10.egg-info' (and everything under it)
+[1.289s] Copying ../../build/scuttle_mqtt/scuttle_mqtt.egg-info to /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/lib/python3.10/site-packages/scuttle_mqtt-0.0.0-py3.10.egg-info
+[1.290s] running install_scripts
+[1.310s] Installing mqtt_image_publisher script to /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/lib/scuttle_mqtt
+[1.310s] writing list of installed files to '/home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/install.log'
+[1.340s] Invoked command in '/home/amr01/workspace/robofun-1.0/object-detection-ws/src/scuttle_mqtt' returned '0': PYTHONPATH=/home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/scuttle_mqtt build --build-base /home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/build install --record /home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/install.log --single-version-externally-managed install_data

@@ -1,0 +1,6 @@
+source;share/scuttle_mqtt/hook/pythonpath.ps1
+source;share/scuttle_mqtt/hook/pythonpath.dsv
+source;share/scuttle_mqtt/hook/pythonpath.sh
+source;share/scuttle_mqtt/hook/ament_prefix_path.ps1
+source;share/scuttle_mqtt/hook/ament_prefix_path.dsv
+source;share/scuttle_mqtt/hook/ament_prefix_path.sh

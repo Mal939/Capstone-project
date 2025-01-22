@@ -1,0 +1,36 @@
+[1.025s] Invoking command in '/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection': PYTHONPATH=/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/build
+[1.310s] running develop
+[1.510s] Removing /home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/lib/python3.10/site-packages/object-detection.egg-link (link to .)
+[1.543s] Invoked command in '/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection' returned '0': PYTHONPATH=/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/build
+[1.544s] Invoking command in '/home/amr01/workspace/robofun-1.0/object-detection-ws/src/object_detection': PYTHONPATH=/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_detection build --build-base /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/build install --record /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/install.log --single-version-externally-managed install_data --force
+[1.809s] running egg_info
+[1.810s] writing ../../build/object_detection/object_detection.egg-info/PKG-INFO
+[1.810s] writing dependency_links to ../../build/object_detection/object_detection.egg-info/dependency_links.txt
+[1.810s] writing entry points to ../../build/object_detection/object_detection.egg-info/entry_points.txt
+[1.810s] writing requirements to ../../build/object_detection/object_detection.egg-info/requires.txt
+[1.810s] writing top-level names to ../../build/object_detection/object_detection.egg-info/top_level.txt
+[1.812s] reading manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[1.813s] writing manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[1.813s] running build
+[1.813s] running build_py
+[1.813s] creating /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/build
+[1.814s] creating /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/build/lib
+[1.814s] creating /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/build/lib/object_detection
+[1.814s] copying object_detection/__init__.py -> /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/build/lib/object_detection
+[1.814s] copying object_detection/object_detection_node.py -> /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/build/lib/object_detection
+[1.814s] running install
+[1.814s] running install_lib
+[1.815s] creating /home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/lib/python3.10/site-packages/object_detection
+[1.815s] copying /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/build/lib/object_detection/__init__.py -> /home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/lib/python3.10/site-packages/object_detection
+[1.815s] copying /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/build/lib/object_detection/object_detection_node.py -> /home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/lib/python3.10/site-packages/object_detection
+[1.815s] byte-compiling /home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/lib/python3.10/site-packages/object_detection/__init__.py to __init__.cpython-310.pyc
+[1.815s] byte-compiling /home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/lib/python3.10/site-packages/object_detection/object_detection_node.py to object_detection_node.cpython-310.pyc
+[1.818s] running install_data
+[1.818s] copying resource/object_detection -> /home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/share/ament_index/resource_index/packages
+[1.819s] copying package.xml -> /home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/share/object_detection
+[1.819s] running install_egg_info
+[1.820s] Copying ../../build/object_detection/object_detection.egg-info to /home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/lib/python3.10/site-packages/object_detection-0.0.0-py3.10.egg-info
+[1.821s] running install_scripts
+[1.840s] Installing object_detection_node script to /home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/lib/object_detection
+[1.841s] writing list of installed files to '/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/install.log'
+[1.876s] Invoked command in '/home/amr01/workspace/robofun-1.0/object-detection-ws/src/object_detection' returned '0': PYTHONPATH=/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_detection build --build-base /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/build install --record /home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection/install.log --single-version-externally-managed install_data --force

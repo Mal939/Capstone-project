@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "object_detection_msgs__py",
+		"source" : "/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection_msgs/object_detection_msgs__py"
+	}
+}

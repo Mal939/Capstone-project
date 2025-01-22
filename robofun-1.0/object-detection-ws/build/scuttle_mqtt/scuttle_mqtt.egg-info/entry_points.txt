@@ -1,0 +1,3 @@
+[console_scripts]
+mqtt_image_publisher = scuttle_mqtt.image_publisher:main
+

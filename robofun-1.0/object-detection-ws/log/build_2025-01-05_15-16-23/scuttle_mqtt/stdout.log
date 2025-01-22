@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/scuttle_mqtt/scuttle_mqtt.egg-info
+writing ../../build/scuttle_mqtt/scuttle_mqtt.egg-info/PKG-INFO
+writing dependency_links to ../../build/scuttle_mqtt/scuttle_mqtt.egg-info/dependency_links.txt
+writing entry points to ../../build/scuttle_mqtt/scuttle_mqtt.egg-info/entry_points.txt
+writing requirements to ../../build/scuttle_mqtt/scuttle_mqtt.egg-info/requires.txt
+writing top-level names to ../../build/scuttle_mqtt/scuttle_mqtt.egg-info/top_level.txt
+writing manifest file '../../build/scuttle_mqtt/scuttle_mqtt.egg-info/SOURCES.txt'
+reading manifest file '../../build/scuttle_mqtt/scuttle_mqtt.egg-info/SOURCES.txt'
+writing manifest file '../../build/scuttle_mqtt/scuttle_mqtt.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/build
+creating /home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/build/lib
+creating /home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/build/lib/scuttle_mqtt
+copying scuttle_mqtt/image_publisher.py -> /home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/build/lib/scuttle_mqtt
+copying scuttle_mqtt/__init__.py -> /home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/build/lib/scuttle_mqtt
+running install
+running install_lib
+creating /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/lib/python3.10/site-packages/scuttle_mqtt
+copying /home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/build/lib/scuttle_mqtt/image_publisher.py -> /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/lib/python3.10/site-packages/scuttle_mqtt
+copying /home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/build/lib/scuttle_mqtt/__init__.py -> /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/lib/python3.10/site-packages/scuttle_mqtt
+byte-compiling /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/lib/python3.10/site-packages/scuttle_mqtt/image_publisher.py to image_publisher.cpython-310.pyc
+byte-compiling /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/lib/python3.10/site-packages/scuttle_mqtt/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/share/ament_index
+creating /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/share/ament_index/resource_index
+creating /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/share/ament_index/resource_index/packages
+copying resource/scuttle_mqtt -> /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/share/ament_index/resource_index/packages
+copying package.xml -> /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/share/scuttle_mqtt
+running install_egg_info
+Copying ../../build/scuttle_mqtt/scuttle_mqtt.egg-info to /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/lib/python3.10/site-packages/scuttle_mqtt-0.0.0-py3.10.egg-info
+running install_scripts
+Installing mqtt_image_publisher script to /home/amr01/workspace/robofun-1.0/object-detection-ws/install/scuttle_mqtt/lib/scuttle_mqtt
+writing list of installed files to '/home/amr01/workspace/robofun-1.0/object-detection-ws/build/scuttle_mqtt/install.log'

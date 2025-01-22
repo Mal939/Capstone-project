@@ -1,0 +1,8 @@
+[0.263s] Invoking command in '/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection_msgs': /usr/bin/cmake /home/amr01/workspace/robofun-1.0/object-detection-ws/src/object_detection_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection_msgs
+[0.279s] [31mCMake Error at CMakeLists.txt:10:
+[0.279s]   Parse error.  Expected a command name, got unquoted argument with text
+[0.279s]   "​".
+[0.279s] 
+[0.279s] [0m
+[0.279s] -- Configuring incomplete, errors occurred!
+[0.281s] Invoked command in '/home/amr01/workspace/robofun-1.0/object-detection-ws/build/object_detection_msgs' returned '1': /usr/bin/cmake /home/amr01/workspace/robofun-1.0/object-detection-ws/src/object_detection_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/amr01/workspace/robofun-1.0/object-detection-ws/install/object_detection_msgs
